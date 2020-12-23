@@ -1,6 +1,6 @@
-#Hot Buttered Rum
+# Hot Buttered Rum
 
-##Spice Blend
+## Spice Blend
     1 Oz. Cloves
     1 Oz. Nutmeg
     1 Oz. Allspice
@@ -9,7 +9,7 @@
 
 Grind each spice seperately until fine.  Combine and continue grinding until super fine.
 
-##Batter
+## Batter
     1 Lb. Unsalted Butter
     2 Lb. Demerara Sugar
     2 Tbl. Spice Blend
@@ -18,11 +18,11 @@ Grind each spice seperately until fine.  Combine and continue grinding until sup
 
 Cream ingredients thoroughly.  Chill and divide into 24 2 Oz. portions
 
-##Drink:
+## Drink:
     2 Oz. Batter
     2 Oz. Dark Rum
     4 Oz. Boiling Water
 
-###Possible Rums:
+### Possible Rums:
 **El Dorado**: Provides more butter flavor.
 **Ron Zacapa**: Provides more spice flavor.
