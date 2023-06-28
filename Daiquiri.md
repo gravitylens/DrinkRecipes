@@ -2,8 +2,8 @@
 If you use a blender, we cannot be friends.
 
 ## Basic Daiquiri
-    1 oz.  Light Rum
-    1 oz.  Dark Rum
+      1 oz.  Light Rum
+      1 oz.  Dark Rum
     3/4 oz. Lime Juice
     3/4 oz. Simple Syrup
 
