@@ -1,5 +1,12 @@
 # Wildfire
 
+    2 oz	Deadhead Rum
+    1 oz	Chili lime juice
+    1 oz	Chipotle Pineapple Cinnamon Simple Syrup
+    ½ oz	Galliano
+
+Mix over ice. Strain into cinnamon smoked coupe glass.  Mist with Mezcal.  Garnish with three pineapple leaves held together by a cinnamon stick.
+
 ## Chipotle Pineapple Cinnamon Simple Syrup
     2 Oz. Pineapple, diced
     1 Oz. Turbinado Sugar
@@ -14,10 +21,3 @@ Toss pineapple with Turbinado sugar and let sit 1 hour.  Bring saucepan with wat
     2 oz	Mexican Chile Syrup
     5 oz	Fresh Lime Juice
 
-## Wildfire:
-    2 oz	Deadhead Rum
-    1 oz	Chili lime juice
-    1 oz	Chipotle Pineapple Cinnamon Simple Syrup
-    ½ oz	Galliano
-
-Mix over ice. Strain into cinnamon smoked coupe glass.  Mist with Mezcal.  Garnish with three pineapple leaves held together by a cinnamon stick.

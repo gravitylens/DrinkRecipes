@@ -7,7 +7,7 @@
     2 Oz. Cinnamon
     2 Oz. Ground Ginger
 
-Grind each spice seperately until fine.  Combine and continue grinding until super fine.
+Grind each spice separately until fine.  Combine and continue grinding until super fine.
 
 ## Batter
     1 Lb. Unsalted Butter
@@ -16,7 +16,7 @@ Grind each spice seperately until fine.  Combine and continue grinding until sup
     4 tsp. Vanilla Extract
     2 tsp. Almond Extract
 
-Cream ingredients thoroughly.  Chill and divide into 24 2 Oz. portions
+Cream ingredients thoroughly. Chill and divide into 24 2 Oz. portions. These can be frozen for several months. Thaw before use.
 
 ## Drink:
     2 Oz. Batter
@@ -26,3 +26,4 @@ Cream ingredients thoroughly.  Chill and divide into 24 2 Oz. portions
 ### Possible Rums:
 **El Dorado**: Provides more butter flavor.
 **Ron Zacapa**: Provides more spice flavor.
+**Smith & Cross**: Crazy. Funky. Cool.
