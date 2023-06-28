@@ -2,10 +2,10 @@
 These recipes for nearly shelf stable citrus juices were taken from [The Educated Barfly](https://theeducatedbarfly.com/super-juice/) and [Cocktain Time with Kevin Kos](https://theeducatedbarfly.com/super-juice/) and rewritten for clarity.  Use this in any recipe that call for fresh juice.
 
 ## Lime Juice
-  8 Limes, peeled and juiced
-  44 g Citric Acid (about 1/4 Cup)
-  8 g Malic Acid (about 2 tsp)
-  4 Cups Water
+ 8 Limes, peeled and juiced
+ 44 g Citric Acid (about 1/4 Cup)
+ 8 g Malic Acid (about 2 tsp)
+ 4 Cups Water
 
   1. Add the peel of 8 limes to a large container.
   1. Add the citric acid and malic acid and lightly muddle to mix.
