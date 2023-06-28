@@ -1,5 +1,5 @@
 # Super Juice
-These recipes for nearly shelf stable citrus juices were taken from [The Educated Barfly](https://theeducatedbarfly.com/super-juice/) and [Cocktain Time with Kevin Kos](https://theeducatedbarfly.com/super-juice/) and rewritten for clarity.  Use this in any recipe that call for fresh juice.
+These recipes for nearly shelf stable citrus juices were taken from [The Educated Barfly](https://theeducatedbarfly.com/super-juice/) and [Cocktail Time with Kevin Kos](https://theeducatedbarfly.com/super-juice/) and rewritten for clarity.  Use this in any recipe that call for fresh juice.
 
 ## Lime Juice
     8 Limes, peeled and juiced
