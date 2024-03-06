@@ -1,4 +1,4 @@
-** Latin Spice
+## Latin Spice
     1 oz.    Lime Juice
     1/2 oz.  pH Alchemy Mexican Chile Syrup
     Mexican Coca-Cola
