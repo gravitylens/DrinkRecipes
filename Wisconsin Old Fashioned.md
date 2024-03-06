@@ -1,6 +1,6 @@
 # Brandy Old Fashioned Sweet
 
-As a little kid I remember going to a Supper Clubs for Friday Fish Fry and my grandmother always ordering a "Brandy Old Fashioned Sweet."  This was to distinguish it from a proper Old Fashions that is not sweet and also made with Bourbon.  This was a common drink is Wisconsin that is making a comeback.
+As a little kid I remember going to Supper Clubs for Friday Fish Fry and my grandmother always ordering a "Brandy Old Fashioned Sweet."  This was to distinguish it from a proper Old Fashions that is not sweet and also made with Bourbon.  This was a common drink is Wisconsin that is making a comeback.
 
     2 Oz VSOP Brandy
     1 Oz. Cinnamon Simple Syrup
