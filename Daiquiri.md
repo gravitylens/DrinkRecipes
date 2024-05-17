@@ -10,10 +10,10 @@ If you use a blender, we cannot be friends.
 Shake over ice.
 
 ### Variations
-|Daiquiri       |Light Rum          |Dark Rum           |
-|---            |---                |---                |
+|Daiquiri       |Light Rum          |Dark Rum         |
+|---            |---                |---              |
 |Simple         | Cruzan Silver     | Appleton Estate |
-|Jamaican         | Cruzan Silver     | Smith and Cross |
+|Jamaican       | Cruzan Silver     | Smith and Cross |
 |Rum Waffles    | Cruzan Silver     | 50% Cruzan Blackstrap / 50% Appleton Estate |
 |Pineapple      | Cruzan Silver     | Plantation Stiggins |
 |Banana         | Cruzan Silver     | 50% Appleton Estate / 50% Drillaud Banana Liqueur |
